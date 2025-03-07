@@ -7,3 +7,4 @@
 3. Fazer Alterações >> Adcionar | Commitar | Enviar arquivos;
 4. Criar uma nova Branch e Merge;
 5. Realizar um Fork e pull request;
+6. Criar tags e releases;
