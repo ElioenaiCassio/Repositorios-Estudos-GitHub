@@ -1,6 +1,6 @@
-# Estudos - Git Github
+# <center>Estudos - Git Github</center>
 
-## Objetivos
+## <center>Objetivos</center>
 
 <br>
 
