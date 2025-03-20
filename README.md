@@ -1,15 +1,11 @@
 # <p align="center">Estudos - Git Github
-
-## <p align="center">Objetivos
-
-<br>
-
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/>
 </p>
 
-<br>
+
+### <p align="center">Objetivos
 
 - 💬 Criar um repositório local e adciona-lo ao GitHub;
 - 💬 Clonar um Repositório remoto para o computador local;
