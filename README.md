@@ -1,11 +1,11 @@
-# <center>Estudos - Git Github</center>
+# Estudos - Git Github
 
-## <center>Objetivos</center>
+## Objetivos
 
 <br>
 
-<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/></center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px" align="center"/>
 
 <br>
 
