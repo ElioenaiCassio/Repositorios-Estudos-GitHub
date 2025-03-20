@@ -1,6 +1,6 @@
-# <center>Estudos - Git Github</center>
+# <p align="center">Estudos - Git Github
 
-## <center>Objetivos</center>
+## <p align="center">Objetivos
 
 <br>
 
