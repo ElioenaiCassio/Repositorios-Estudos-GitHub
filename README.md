@@ -1,10 +1,17 @@
-# Estudos - Git Github
+# <center>Estudos - Git Github</center>
 
-## Objetivos da Aula
+## <center>Objetivos</center>
 
-1. Criar um repositório local e adciona-lo ao GitHub;
-2. Clonar um Repositório remoto para o computador local;
-3. Fazer Alterações >> Adcionar | Commitar | Enviar arquivos;
-4. Criar uma nova Branch e Merge;
-5. Realizar um Fork e pull request;
-6. Criar tags e releases;
+<br>
+
+<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/></center>
+
+<br>
+
+- 💬 Criar um repositório local e adciona-lo ao GitHub;
+- 💬 Clonar um Repositório remoto para o computador local;
+- 💬 Fazer Alterações >> Adcionar | Commitar | Enviar arquivos;
+- 💬 Criar uma nova Branch e Merge;
+- 💬 Realizar um Fork e pull request;
+- 💬 Criar tags e releases;
